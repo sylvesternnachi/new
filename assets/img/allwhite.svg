@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2485.874 390 63 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efefef;
+      }
+    </style>
+  </defs>
+  <path id="ic_apps_24px" class="cls-1" d="M4,19.75H19.75V4H4ZM27.625,67h15.75V51.25H27.625ZM4,67H19.75V51.25H4ZM4,43.375H19.75V27.625H4Zm23.625,0h15.75V27.625H27.625ZM51.25,4V19.75H67V4ZM27.625,19.75h15.75V4H27.625ZM51.25,43.375H67V27.625H51.25ZM51.25,67H67V51.25H51.25Z" transform="translate(2481.874 386)"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3240 693 48 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff9913;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+	  
+	        .cls-1:hover {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_767" data-name="Group 767" transform="translate(2889 194)">
+    <g id="Group_761" data-name="Group 761">
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="24" cy="24.5" rx="24" ry="24.5" transform="translate(351 499)"/>
+    </g>
+    <g id="Group_760" data-name="Group 760" transform="translate(-10 -90)">
+      <rect id="Rectangle_710" data-name="Rectangle 710" class="cls-2" width="4.645" height="22.45" transform="translate(382.516 602.55)"/>
+      <rect id="Rectangle_711" data-name="Rectangle 711" class="cls-2" width="21.676" height="5.419" transform="translate(374 611.065)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5645 718 14.75 14.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #2699fb;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_4" data-name="Symbol 4" transform="translate(5741 -7117)">
+    <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-1" width="14.75" height="14.75" transform="translate(-96 7835)"/>
+    <path id="Path_99" data-name="Path 99" class="cls-2" d="M14.658,13.367l-3.042-3.042a6.312,6.312,0,0,0,1.291-3.872A6.413,6.413,0,0,0,6.453,0,6.413,6.413,0,0,0,0,6.453a6.413,6.413,0,0,0,6.453,6.453,6.312,6.312,0,0,0,3.872-1.291l3.042,3.042ZM1.844,6.453A4.565,4.565,0,0,1,6.453,1.844a4.565,4.565,0,0,1,4.609,4.609,4.565,4.565,0,0,1-4.609,4.609A4.565,4.565,0,0,1,1.844,6.453Z" transform="translate(-96 7835)"/>
+  </g>
+</svg>

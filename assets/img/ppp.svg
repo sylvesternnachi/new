@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3761 388.8 62.2 62.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1f69f5;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f69f5"/>
+      <stop offset="1" stop-color="#311fe3"/>
+    </linearGradient>
+  </defs>
+  <g id="document" transform="translate(2871 573)">
+    <g id="Group_14" data-name="Group 14" transform="translate(890 -184.2)">
+      <g id="Group_13" data-name="Group 13">
+        <path id="Path_7" data-name="Path 7" class="cls-1" d="M116.87,232H65.037A1.037,1.037,0,0,0,64,233.037v6.22a3.11,3.11,0,0,0,3.11,3.11H114.8a3.11,3.11,0,0,0,3.11-3.11v-6.22A1.037,1.037,0,0,0,116.87,232Zm-1.037,7.257a1.037,1.037,0,0,1-1.037,1.037H67.11a1.037,1.037,0,0,1-1.037-1.037v-5.183h5.183v1.037H73.33v-1.037h4.147v3.11H79.55v-3.11H83.7v1.037H85.77v-1.037h4.147v3.11H91.99v-3.11h4.147v1.037H98.21v-1.037h4.147v3.11h2.073v-3.11h4.147v1.037h2.073v-1.037h5.183Z" transform="translate(-55.707 -201.937)"/>
+        <path id="Path_8" data-name="Path 8" class="cls-2" d="M45.613,60.127H2.073V2.073h34.21v6.22a3.11,3.11,0,0,0,3.11,3.11h6.22V27.99h2.073V10.367c0-.023-.011-.043-.013-.065a.979.979,0,0,0-.053-.266c-.011-.033-.02-.065-.034-.1a1.02,1.02,0,0,0-.207-.3L38.049.3A1.022,1.022,0,0,0,37.738.1C37.71.084,37.68.076,37.651.065a1.017,1.017,0,0,0-.282-.056C37.357.01,37.34,0,37.32,0H1.037A1.037,1.037,0,0,0,0,1.037V61.163A1.037,1.037,0,0,0,1.037,62.2H46.65a1.037,1.037,0,0,0,1.037-1.037V53.907H45.613ZM38.357,3.539,44.148,9.33H39.393a1.037,1.037,0,0,1-1.037-1.037Z"/>
+        <rect id="Rectangle_698" data-name="Rectangle 698" class="cls-2" width="4.147" height="2.073" transform="translate(6.22 8.293)"/>
+        <rect id="Rectangle_699" data-name="Rectangle 699" class="cls-2" width="20.733" height="2.073" transform="translate(12.44 8.293)"/>
+        <rect id="Rectangle_700" data-name="Rectangle 700" class="cls-2" width="26.953" height="2.073" transform="translate(6.22 14.513)"/>
+        <rect id="Rectangle_701" data-name="Rectangle 701" class="cls-2" width="2.073" height="2.073" transform="translate(6.22 20.733)"/>
+        <rect id="Rectangle_702" data-name="Rectangle 702" class="cls-1" width="30.063" height="2.073" transform="translate(10.367 20.733)"/>
+        <path id="Path_9" data-name="Path 9" class="cls-1" d="M111.688,328h-42.5a1.036,1.036,0,0,0-.733.3l-4.147,4.147a1.037,1.037,0,0,0,0,1.466l4.147,4.147a1.036,1.036,0,0,0,.733.3h42.5a5.183,5.183,0,0,0,0-10.367Zm-43.54,6.828L66.5,333.183l1.644-1.644Zm37.32,1.466H70.222V334.22h35.247Zm0-4.147H70.222v-2.073h35.247Zm3.11,4.147h-1.037v-6.22h1.037Zm3.11,0h-1.037v-6.22h1.037a3.11,3.11,0,0,1,0,6.22Z" transform="translate(-55.708 -285.497)"/>
+      </g>
+    </g>
+  </g>
+</svg>

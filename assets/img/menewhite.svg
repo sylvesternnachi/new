@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3754 389 75 75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_7" data-name="Symbol 7" transform="translate(3725 -4)">
+    <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-1" width="75" height="75" transform="translate(29 393)"/>
+    <path id="Path_50" data-name="Path 50" class="cls-2" d="M65.625,9.375H9.375L37.5,32.813ZM0,9.375A9.4,9.4,0,0,1,9.375,0h56.25A9.4,9.4,0,0,1,75,9.375v37.5a9.4,9.4,0,0,1-9.375,9.375H9.375A9.4,9.4,0,0,1,0,46.875Z" transform="translate(29 402.375)"/>
+  </g>
+</svg>
