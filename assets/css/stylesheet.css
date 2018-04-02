@@ -29,6 +29,7 @@ p{
   height: auto;
   background:white;
   padding: 1%;
+  margin-bottom: 2%;
 }
 
 #title-bar{
@@ -42,6 +43,7 @@ background: -webkit-linear-gradient(left, #fa9000 0%,#ff650c 100%); /* Chrome10-
 background: linear-gradient(to right, #fa9000 0%,#ff650c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa9000', endColorstr='#ff650c',GradientType=1 ); /* IE6-9 */
 margin-bottom: 2%;
+display: none;
 }
 
 #title-bar p{
@@ -58,7 +60,6 @@ margin-bottom: 2%;
   min-height: 125px;
   background: white;
   border-radius: 15px;
-  box-shadow: 0px 10px 20px #e5e5e5;
   padding:7% !important;
   color:#6C6C6C;
   margin-bottom: 5%;
@@ -131,7 +132,7 @@ overflow-y: auto;
 }
 
 .fade{
-  opacity: 0.5;
+  opacity:1;
 }
 
 .form-box{
